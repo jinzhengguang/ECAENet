@@ -1,4 +1,9 @@
 # ECAENet  (TensorFlow and Keras)
+
+ECAENet: EfficientNet with Efficient Channel Attention for Plant Species Recognition 
+
+(SCI:Q3) (Journal of Intelligent & Fuzzy Systems)
+
 ## Results
 ![Poster](results/flower.jpg)
 
